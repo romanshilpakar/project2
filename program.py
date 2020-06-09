@@ -1,5 +1,4 @@
 import cv2
-import numpy as num
 import pandas as pan
 
 double = False
